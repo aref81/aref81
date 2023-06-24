@@ -1,4 +1,4 @@
-### Hi there, I'm Aref :)
+# Hi there, I'm Aref :)
 
 ## About Me
 - I'm currently pursuing my Bachelor Programm in [Amirkabir University of Technology](https://aut.ac.ir/en)
@@ -30,7 +30,7 @@
 ## Connect With Me On
 <div style="display: flex; justify-content: space-between; padding: 0 20px;">
     <a href="https://www.linkedin.com/in/mohammad-hosein-aref-14b750140/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a title="m.h.aref2002@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:m.h.aref2002@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn"></a>
     <a href="https://t.me/maref02" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn"></a>
 </div>  
 
