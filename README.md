@@ -1,7 +1,8 @@
 # Hi there, I'm Aref :)
 
 ## About Me
-- I'm currently pursuing my Bachelor Programm in [Amirkabir University of Technology](https://aut.ac.ir/en)
+- I've finished my M. Sc. in Data Science and Artificial Intelligence [Universität Hamburg](https://www.uni-hamburg.de)
+- I'm currently pursuing my Bachelor Programm at [Amirkabir University of Technology](https://aut.ac.ir/en)
 - I'm intersted in Back-end Development, Data Analysis and Machine Learning
 - I Like exploring new technologies and experiencing new fields of computer universe
 
