@@ -1,4 +1,8 @@
-# Hi there, I'm Mohammad Hossein 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00ADD8&width=600&lines=Hi+there%2C+I'm+Aref+%F0%9F%91%8B;Backend+Engineer+%7C+Data+Engineer;M.Sc.+Data+Science+%40+Universität+Hamburg;Open+to+Working+Student+%26+Junior+Roles)](https://git.io/typing-svg)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=aref81&color=00ADD8&style=for-the-badge)
+
+---
 
 ## About Me
 - 🎓 Pursuing my **M.Sc. in Data Science and AI** at [Universität Hamburg](https://www.uni-hamburg.de)
@@ -6,6 +10,8 @@
 - 💼 3+ years of experience building scalable backend systems and data pipelines
 - 🔭 Interested in **Backend Engineering**, **Data Engineering**, and **Machine Learning**
 - 🌍 Based in Hamburg, Germany — open to working student, internship, and junior roles
+
+---
 
 ## What I Work With
 
@@ -40,14 +46,30 @@
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-3d348b?style=for-the-badge&logo=opentelemetry&logoColor=white)
 
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aref81&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aref81&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aref81&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
 ## Featured Projects
 - 🚀 [**Fare Estimator**](https://github.com/aref81/snappbox_fare_estimator) — Microservice-based fare calculation system processing 1M+ deliveries in under 60s
 - ⚡ [**Message Broker**](https://github.com/aref81/Message-Broker) — High-performance gRPC pub/sub broker achieving 35K req/s on a single pod
 - 🔍 [**Information Retrieval Engine**](https://github.com/aref81/Information-Retrieval) — Persian news search engine with TF-IDF, cosine similarity, and index optimization
 
+---
+
 ## Connect With Me
-<div style="display: flex; gap: 10px;">
-    <a href="https://www.linkedin.com/in/mohammad-aref02/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="mailto:m.h.aref2002@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-    <a href="https://t.me/maref02" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohammad-aref02/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:m.h.aref2002@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+</p>
