@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00ADD8&width=600&lines=Hi+there%2C+I'm+Aref+%F0%9F%91%8B;Backend+Engineer+%7C+Data+Engineer;M.Sc.+Data+Science+%40+Universität+Hamburg;Open+to+Working+Student)](https://git.io/typing-svg)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=aref81&color=00ADD8&style=for-the-badge)
-
 ---
 
 ## About Me
