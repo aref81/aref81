@@ -44,23 +44,6 @@
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-3d348b?style=for-the-badge&logo=opentelemetry&logoColor=white)
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aref81&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aref81&layout=compact&theme=tokyonight&hide_border=true&hide_progress=true&hide=jupyter+notebook"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aref81&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## Featured Projects
 - 🚀 [**Fare Estimator**](https://github.com/aref81/snappbox_fare_estimator) — Microservice-based fare calculation system processing 1M+ deliveries in under 60s
 - ⚡ [**Message Broker**](https://github.com/aref81/Message-Broker) — High-performance gRPC pub/sub broker achieving 35K req/s on a single pod
